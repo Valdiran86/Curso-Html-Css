@@ -1,11 +1,57 @@
-.primeiro-h1{
-    color: red;
-    font-size: 50px;
-    font-style: oblique;
-    font-family:"Montserrat";
+*{
+    box-sizing: border-box;
 }
-#titulo{
-    color:blue;
-    font-size: 30px;
-    font-style:italic;
+body{
+    font-family:"Montserrat";
+    height:180vh;
+}
+.container{
+    background-color: #121212;
+    width: 700px;
+    color: #fff;
+    margin: auto;
+    padding: 50px;
+    border: 5px solid red;
+    border-radius: 50px;
+}
+.rede-social h2{
+    text-align: center;
+}
+.rede-social ul{
+    padding:0;
+    list-style: none;
+    text-align: center;
+}
+.rede-social li{
+    margin-bottom: 8px;
+}
+.rede-social a{
+    text-decoration: none;
+    color: #000000;
+}
+.rede-social a:hover{
+    color:#ff0000;
+}
+.area{
+    border: 5px solid green;
+    position: relative;
+    color: red;
+    top: 150px;
+    left: 90px;
+    width: 650px;
+    height: 500px;
+}
+.area-absolute{
+    border: 5px solid blue;
+    position: absolute;
+    top:0;
+    right: 0;
+}
+.area-fixed{
+    width: 200px;
+    height: 80px;
+    background-color:purple;
+    position: fixed;
+    bottom: 50px;
+    right:80px
 }

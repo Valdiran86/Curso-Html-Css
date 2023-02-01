@@ -1,0 +1,54 @@
+TAGS CSS
+font-size->Muda o tamanho da letra
+font-style -> Muda o estilo da letra 
+font-family -> Muda o formato da letra
+width -> Muda a laragura de um elemento
+height -> Muda a altura de um elemento
+
+
+Usar Class: Seleciona mais de um item
+Usar Id: selecina apenas um item
+
+CORES
+color -> Muda a cor de um texto ou letra
+backgrund-coloe -> Muda a cor de uma tag html
+
+MARGIN 
+Margin aplica um espaçamento externo de um elemento
+
+PADDING
+Padding aplica  um espaçamento interno em um elemento
+
+BORDER 
+É aplicada em volta de um elemento
+
+BODER-RADIUS
+O border-radius faz o aredondamento da borda de um elemento
+
+BORDER BOX
+
+BOX-SIZING: BORDER-BOX
+Sempre vai conter os espaçamentos dentro de um elemento
+
+POSICIONAMENTO
+tex-align -> posiciona um elemento em um lado
+
+
+ESTILIZANDO LISTA
+text-decoration:none -> Retira o sublinhado de um elemento
+list-style:none -> Retira marcadores de um elemento
+hover -> Muda a cor do elemento, quando passa o mause em cima do elemento
+
+POSITION
+Propriedade do css que nos permite, manipular os elementos em uma tela
+
+position: static -> ja vem como padrão, sempre está na esquerda da tela
+position: relative -> O elemento é posicionado em relação a sua posição normal.
+porem podem ser posicionado (top, bottom, left, right)
+
+position:absolute -> É posicionado em relação ao seu elemento pai mais proximo que possui
+relação se não tiver é posicionado em relação ao body.
+
+Position fixed -> É posicionado em relação ao viewport (é a area no browser onde parece o site)
+sempre fica na mesma posição mesmo se á pagina tem scroll
+
